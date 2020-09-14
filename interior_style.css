@@ -215,7 +215,7 @@ font-family: 'Nunito Sans', sans-serif;
     height: 240px;
     background-size: 100% 240px;
     background-repeat: no-repeat;
-    background-image: url("Images/kitchen-2174593_1920.jpg");
+    background-image: url("images/kitchen-2174593_1920.jpg");
 }
 
 .overlay{
@@ -259,7 +259,7 @@ font-family: 'Nunito Sans', sans-serif;
     height: 240px;
     background-size: 100% 240px;
     background-repeat: no-repeat;
-    background-image: url("Images/sofa-184551_1920.jpg");
+    background-image: url("images/sofa-184551_1920.jpg");
 }
 
 .image3{
@@ -267,14 +267,14 @@ font-family: 'Nunito Sans', sans-serif;
     height: 240px;
     background-size: 100% 240px;
     background-repeat: no-repeat;
-    background-image: url("Images/interior-2685517_1920.jpg");
+    background-image: url("images/interior-2685517_1920.jpg");
 }
 
 .image4{
     height: 240px;
     background-size: 100% 240px;
     background-repeat: no-repeat;
-    background-image: url("Images/home-663226.jpg");
+    background-image: url("images/home-663226.jpg");
 }
 
 .image5{
@@ -289,7 +289,7 @@ font-family: 'Nunito Sans', sans-serif;
     height: 240px;
     background-size: 100% 240px;
     background-repeat: no-repeat;
-    background-image: url("Images/bathroom-2094733_1920.jpg");
+    background-image: url("images/bathroom-2094733_1920.jpg");
 }
 
 .middle-btn a{
@@ -740,7 +740,7 @@ font-family: 'Nunito Sans', sans-serif;
 }
 
 .lastground-image{
-    background-image: url("Images/architect-architecture-build-1109541.jpg");
+    background-image: url("images/architect-architecture-build-1109541.jpg");
     background-repeat: no-repeat;
     width: 100%;
     height: 250px;
@@ -815,7 +815,7 @@ font-family: 'Nunito Sans', sans-serif;
 }
 
 .lastground-image2{
-    background-image: url("Images/apartment-architectural-design-architecture-323780.jpg");
+    background-image: url("images/apartment-architectural-design-architecture-323780.jpg");
     background-repeat: no-repeat;
     width: 100%;
     height: 250px;
