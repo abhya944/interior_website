@@ -184,6 +184,9 @@ font-family: 'Nunito Sans', sans-serif;
     grid-gap: 10px;
     margin-top: 90px;
 } 
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 @media screen and (max-width: 1000px){
     .grid-container{
