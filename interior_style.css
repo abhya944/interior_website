@@ -28,7 +28,7 @@ body {
     width: 100%;
     height: 750px;
     background-size: 100% 750px;
-    background-image: url("images/ceiling-comfort-contemporary-1571458.jpg");
+    /* background-image: url("images/ceiling-comfort-contemporary-1571458.jpg"); */
     position: absolute;
     top: -100px;
 }
