@@ -73,7 +73,7 @@
         
          <div class="container">
              <div class="hotel_reserve_box card">
-         <h3> Hotel Reservation Form </h3><br>
+         <h3> contact Form </h3><br>
          <form>
              <div class="form-group">
                  <label>Room/Suite Type</label>
@@ -89,16 +89,15 @@
                  </select>
              </div>
              <div class="form-group">
-                 <label>Number of room/suite</label>
+                 <label>square fts. </label>
                  <select class="form-control" id="room_number" onchange="finalCost()">
-                     <option value="0"> 0 </option>
-                     <option value="1"> 1 </option>
-                     <option value="2"> 2 </option>
-                     <option value="3"> 3 </option>
-                     <option value="4"> 4 </option>
-                     <option value="5"> 5 </option>
-                     <option value="6"> 6 </option>
-                     <option value="7"> 7 </option>
+                     <option value="less than 400"> less than 400</option>
+                     <option value="400 -1000"> 400 -1000 </option>
+                     <option value="1000-2000"> 1000-2000 </option>
+                     <option value="2000-3000"> 2000 -3000 </option>
+                     <option value="3000-8000"> 3000-8000 </option>
+                     <option value="more than 8000"> more than 8000 </option>
+                    
                  </select>
              </div>
              <div class="form-group">
@@ -128,11 +127,11 @@
                  </select>
              </div>
              <div class="form-group">
-                 <label>Restaurant facilities?</label>
+                 <label> facilities </label>
                  <select class="form-control" id="res_facilities" onchange="finalCost();">
-                     <option value="0" selected> Do you want restaurant facilities? </option>
-                     <option value="2"> Yes </option>
-                     <option value="0"> No </option>
+                     <option value="decore" > decore</option>
+                     <option value="furniture"> furniture </option>
+                     <option value="architect"> architect </option>
                  </select>
              </div><br>
              <div class="form-group">
